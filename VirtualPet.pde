@@ -157,3 +157,7 @@ void setup() {
   line(167,798,238,790);
   line(187,817,238,790);
 }
+
+void draw() {
+  //This is a still frame so I haven't used draw() yet.
+}
